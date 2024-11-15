@@ -1,7 +1,7 @@
 # MT-24-25-Vezbe
 Projekat koji se radi na vežbama iz predmeta Mobilne Tehnologije, studentska godina 2024/25.
 
-Potrebno je klonirati repozitorijum na svoj računar.
+Potrebno je klonirati repozitorijum na svoj računar (preporučujem korišćenje GitHub Desktop aplikacije).
 U slučaju da se koristi emulator, neophodno je imati instaliran i podešen Android Studio, a u slučaju da se koristi fizički mobilni telefon, aplikacija Expo Go omogućava izvršavanje na njemu.
 
 Kada se preuzme izvorni kod, u komandnoj liniji Visual Studio Code-a pokrenuti komandu za instaliranje svih zavisnosti - "npm install" (bez navodnika, naravno). Ova komanda će instalirati sve zavisnosti koje se nalaze u package.json datoteci.
